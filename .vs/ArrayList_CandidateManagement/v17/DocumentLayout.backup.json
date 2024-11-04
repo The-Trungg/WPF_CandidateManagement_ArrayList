@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|e:\\ki_5\\prn212\\arraylist_candidatemanagement\\arraylist_candidatemanagement\\jobpostingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|solutionrelative:arraylist_candidatemanagement\\jobpostingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|e:\\ki_5\\prn212\\arraylist_candidatemanagement\\arraylist_candidatemanagement\\hraccountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|solutionrelative:arraylist_candidatemanagement\\hraccountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|e:\\ki_5\\prn212\\arraylist_candidatemanagement\\arraylist_candidatemanagement\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|solutionrelative:arraylist_candidatemanagement\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|e:\\ki_5\\prn212\\arraylist_candidatemanagement\\arraylist_candidatemanagement\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|solutionrelative:arraylist_candidatemanagement\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|e:\\ki_5\\prn212\\arraylist_candidatemanagement\\arraylist_candidatemanagement\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|solutionrelative:arraylist_candidatemanagement\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|e:\\ki_5\\prn212\\arraylist_candidatemanagement\\arraylist_candidatemanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|solutionrelative:arraylist_candidatemanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|e:\\ki_5\\prn212\\arraylist_candidatemanagement\\arraylist_candidatemanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{991667D0-6A91-4340-AACB-0A5563582DD6}|ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj|solutionrelative:arraylist_candidatemanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ArrayList_CandidateManagement\\RegisterWindow.xaml.cs",
+              "ToolTip": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "ArrayList_CandidateManagement\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwFkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:32:01.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ArrayList_CandidateManagement\\LoginWindow.xaml",
+              "ToolTip": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\LoginWindow.xaml",
+              "RelativeToolTip": "ArrayList_CandidateManagement\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T12:37:48.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ArrayList_CandidateManagement\\MainWindow.xaml",
+              "ToolTip": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\MainWindow.xaml",
+              "RelativeToolTip": "ArrayList_CandidateManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T08:27:41.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobPostingWindow.xaml",
+              "DocumentMoniker": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\JobPostingWindow.xaml",
+              "RelativeDocumentMoniker": "ArrayList_CandidateManagement\\JobPostingWindow.xaml",
+              "ToolTip": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\JobPostingWindow.xaml",
+              "RelativeToolTip": "ArrayList_CandidateManagement\\JobPostingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T08:27:14.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HRAccountWindow.xaml",
+              "DocumentMoniker": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\HRAccountWindow.xaml",
+              "RelativeDocumentMoniker": "ArrayList_CandidateManagement\\HRAccountWindow.xaml",
+              "ToolTip": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\HRAccountWindow.xaml",
+              "RelativeToolTip": "ArrayList_CandidateManagement\\HRAccountWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T08:26:57.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidateProfileWindow.xaml",
+              "DocumentMoniker": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\CandidateProfileWindow.xaml",
+              "RelativeDocumentMoniker": "ArrayList_CandidateManagement\\CandidateProfileWindow.xaml",
+              "ToolTip": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\CandidateProfileWindow.xaml",
+              "RelativeToolTip": "ArrayList_CandidateManagement\\CandidateProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T08:24:11.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "ArrayList_CandidateManagement\\RegisterWindow.xaml",
+              "ToolTip": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\RegisterWindow.xaml",
+              "RelativeToolTip": "ArrayList_CandidateManagement\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T08:23:44.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

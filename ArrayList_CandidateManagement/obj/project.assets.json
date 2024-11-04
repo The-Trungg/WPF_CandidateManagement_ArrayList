@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "CandidateManagement_BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CandidateManagement_DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CandidateManagement_BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CandidateManagement_BLL.dll": {}
+        }
+      },
+      "CandidateManagement_DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CandidateManagement_DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CandidateManagement_DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CandidateManagement_BLL/1.0.0": {
+      "type": "project",
+      "path": "../CandidateManagement_BLL/CandidateManagement_BLL.csproj",
+      "msbuildProject": "../CandidateManagement_BLL/CandidateManagement_BLL.csproj"
+    },
+    "CandidateManagement_DAL/1.0.0": {
+      "type": "project",
+      "path": "../CandidateManagement_DAL/CandidateManagement_DAL.csproj",
+      "msbuildProject": "../CandidateManagement_DAL/CandidateManagement_DAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "CandidateManagement_BLL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\trung\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj",
+      "projectName": "ArrayList_CandidateManagement",
+      "projectPath": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement.csproj",
+      "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
+      "outputPath": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\ArrayList_CandidateManagement\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\CandidateManagement_BLL\\CandidateManagement_BLL.csproj": {
+              "projectPath": "E:\\KI_5\\PRN212\\ArrayList_CandidateManagement\\CandidateManagement_BLL\\CandidateManagement_BLL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

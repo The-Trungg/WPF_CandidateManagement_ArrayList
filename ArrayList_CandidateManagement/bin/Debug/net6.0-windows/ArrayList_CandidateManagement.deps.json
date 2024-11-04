@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArrayList_CandidateManagement/1.0.0": {
+        "dependencies": {
+          "CandidateManagement_BLL": "1.0.0"
+        },
+        "runtime": {
+          "ArrayList_CandidateManagement.dll": {}
+        }
+      },
+      "CandidateManagement_BLL/1.0.0": {
+        "dependencies": {
+          "CandidateManagement_DAL": "1.0.0"
+        },
+        "runtime": {
+          "CandidateManagement_BLL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CandidateManagement_DAL/1.0.0": {
+        "runtime": {
+          "CandidateManagement_DAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayList_CandidateManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CandidateManagement_BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CandidateManagement_DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Email	Password	FullName	MemberRole
+admin@hr.com.vn	123@	Admin HR	1
+after@gmail.com	123@	Hau Huynh	3
+manager@hr.com.vn	123@	Manager HR	2
+staff@hr.com.vn	123	Staff HR	3
+trungthe@gmail.com	thetrung	Nguyen The Trung	3
+jane.doe@example.com	abc123	Jane Doe	1
+john.smith@example.com	xyz789	John Smith	2
+alice.jones@example.com	securepass	Alice Jones	3
+bob.brown@example.com	12345	Bob Brown	2
+charlie.white@example.com	helloCharlie	Charlie White	1

@@ -1,0 +1,12 @@
+CandidateID	Fullname	Birthday	ProfileShortDescription	ProfileURL	PostingID
+CANDIDATE0001	Alan Clinton	1990-09-01 00:00:00.000	Excellent communication skills with a commitment to understanding customer requirements as well as business objectives.	AlanClinton.PDF	P0002
+CANDIDATE0002	Ethelbert Harron	1993-04-16 00:00:00.000	Critical thinking skills and an analytical mind with strong problem-solving abilities.	EthelbertHarron.PDF	P0002
+CANDIDATE0003	Kenneth Paul	1980-09-24 00:00:00.000	Highly experienced with various operating systems and databases	KennethPaul.PDF	P0002
+CANDIDATE0005	William Peter	1991-06-28 00:00:00.000	Problem solving skills to revise existing systems and suggest improvements.	WilliamPeter.PDF	P0005
+CANDIDATE0006	Edward David Clinton	1990-07-13 00:00:00.000	Patience and ability to train users in both new and existing IT systems.	EdwardDavidClinton.PDF	P0004
+CANDIDATE0008	Michael Leonard Handsome	2024-10-28 00:00:00.000	NULL	MichaelLeonard.PDF	P0005
+CANDIDATE0007	Sarah Connor	1985-05-14 00:00:00.000	Skilled in project management and team leadership.	SarahConnor.PDF	P0003
+CANDIDATE0009	John Doe	1992-11-30 00:00:00.000	Proficient in software development and agile methodologies.	JohnDoe.PDF	P0001
+CANDIDATE0010	Jane Smith	1988-02-20 00:00:00.000	Expert in data analysis and visualization techniques.	JaneSmith.PDF	P0002
+CANDIDATE0011	Emily Johnson	1995-03-15 00:00:00.000	Strong background in marketing and brand management.	EmilyJohnson.PDF	P0004
+CANDIDATE0012	Chris Evans	1990-12-25 00:00:00.000	Excellent interpersonal skills and customer service experience.	ChrisEvans.PDF	P0005
